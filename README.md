@@ -34,7 +34,7 @@ Handout_folder
 ~~~
 
 ### Handout Project Setup
-
+~~~
 Project_folder_X
 ├── Latex             <-- The Latex folder is managed automatically.
 |   ├── Resources
@@ -45,7 +45,8 @@ Project_folder_X
 |   ├── Handout_Lx.cls
 |   └── main.tex        
 ├── basic.yaml        <-- Project information, related to headers and footers.
-└── content.docx      <-- All your handout content, 
+└── content.docx      <-- All your handout content
+~~~
 
 Refer the sample_handout.pdf for handout syntax.
 
