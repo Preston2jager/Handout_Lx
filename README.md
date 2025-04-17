@@ -21,8 +21,7 @@ pyinstaller --icon=logo.ico --onefile --name=HandoutGen main.py
 ## Usage
 
 ### Deployment
-
-Clone the repo to local, rename folders as you like. The exe file reads the basic.yaml in subfolders to identify different Handouts. It requires a folder structure as below:
+Download from Release, rename folders as you like. The exe file reads the basic.yaml in subfolders to identify different Handouts. It requires a folder structure as below:
 ~~~
 Handout_folder
 ├── Project_folder_1
