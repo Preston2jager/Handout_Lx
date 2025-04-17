@@ -4,8 +4,9 @@ A quick step by step handout generator running with LaTex.
 
 ## Requirements
 
-### For users just want handouts in default layout:
-The dist is packed with all required libs, the only requirement is XeLatex. A full installation of Texlive is recommanded.
+### For users who just want to produce handouts in default layout:
+The dist is packed with all required libs, the only requirement is XeLatex. 
+A full installation of Texlive is recommanded.
 
 ### For users who know what they are doing:
 ##### To do...
